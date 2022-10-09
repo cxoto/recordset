@@ -16,10 +16,10 @@ pip3 install recordset
 
 
 ## Features
--You can set the profile information of Tencent cloud through a simple command
--You can use the rlist command to query all record records under DNSPod
--You can add a record using the Radd command
--Can be deleted by rdel command
+- You can set the profile information of Tencent cloud through a simple command
+- You can use the rlist command to query all record records under DNSPod
+- You can add a record using the Radd command
+- Can be deleted by rdel command
 
 ## Requirements
 
